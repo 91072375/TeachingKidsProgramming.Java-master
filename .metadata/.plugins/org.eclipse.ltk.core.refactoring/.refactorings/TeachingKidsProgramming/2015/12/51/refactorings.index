@@ -1,0 +1,4 @@
+1450204398034	Convert local variable 'programWindow' to field
+1450204591561	Extract local variable 'randomInt'
+1450284402040	Extract method 'prepareColorPalette'
+1450284465626	Extract method 'createBubble'
