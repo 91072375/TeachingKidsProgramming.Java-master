@@ -1,0 +1,10 @@
+import org.teachingextensions.logo.utils.EventUtils.MessageBox;
+
+public class SayHelloTKP
+{
+  public static void main(String[] args)
+  {
+    String TKP = "Hello World! :3 (^ . w .  ^)";
+    MessageBox.showMessage(TKP);
+  }
+}

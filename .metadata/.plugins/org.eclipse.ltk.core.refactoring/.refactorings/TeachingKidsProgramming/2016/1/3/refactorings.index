@@ -1,0 +1,4 @@
+1452622177321	Extract method 'addACircle'
+1452622199639	Extract method 'addADot'
+1452622250655	Extract method 'prepareColorPalette'
+1452622355507	Extract method 'clearScreen'

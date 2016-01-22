@@ -1,0 +1,19 @@
+package org.teachingkidsprogramming.section01forloops;
+
+import org.teachingextensions.logo.Tortoise;
+
+public class SimpleSquare
+{
+  public static void main(String[] args) throws Exception
+  {
+    Tortoise.show();
+    Tortoise.setX(20);
+    Tortoise.setX(250);
+    Tortoise.setSpeed(10);
+    for (int i = 1; i < 1000; i++)
+    {
+      Tortoise.move(i);
+      Tortoise.turn(90);
+    }
+  }
+}

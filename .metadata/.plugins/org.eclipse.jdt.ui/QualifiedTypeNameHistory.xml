@@ -4,12 +4,20 @@
 <fullyQualifiedTypeName name="org.teachingextensions.logo.Colors"/>
 <fullyQualifiedTypeName name="org.teachingextensions.windows.MessageBox"/>
 <fullyQualifiedTypeName name="org.teachingextensions.logo.ColorWheel"/>
-<fullyQualifiedTypeName name="org.teachingextensions.logo.Tortoise"/>
 <fullyQualifiedTypeName name="org.teachingextensions.logo.Turtle"/>
 <fullyQualifiedTypeName name="org.teachingextensions.WindowUtils.ProgramWindow"/>
-<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.ColorWheel"/>
-<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Purples"/>
-<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.LineAndShapeUtils.Circle"/>
-<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Blues"/>
 <fullyQualifiedTypeName name="org.teachingkidsprogramming.section08events.ConnectTheDots"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.ColorWheel"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.LineAndShapeUtils.Circle"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Greens"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Blues"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Pinks"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.LineAndShapeUtils.Text"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Purples"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.EventUtils.MessageBox"/>
+<fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.utils.ColorUtils.PenColors.Reds"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Tortoise"/>
 </qualifiedTypeNameHistroy>

@@ -2,7 +2,28 @@ package org.teachingkidsprogramming.section09final;
 
 public class FizzBuzz
 {
-  //    For the whole numbers from 1 to 100, print either that number, or, 
+  public static void main(String[] args)
+  {
+    for (int i = 100; i >= 0; i--)
+    {
+      if (i % 3 == 0 && i % 5 == 0)
+      {
+        System.out.println("FizzBuzz");
+      }
+      if (i % 3 == 0)
+      {
+        System.out.println("Fizz");
+      }
+      else if (i % 5 == 0)
+      {
+        System.out.println("Buzz");
+      }
+      else
+      {
+        System.out.println(i);
+      }
+    }
+  } //    For the whole numbers from 1 to 100, print either that number, or, 
   //    If that number is evenly divisible by 3, then print the word 'Fizz', 
   //    If that number is evenly divisible by 5, then print the word 'Buzz', 
   //    If that number is evenly divisible by either 3 or 5, then print the word 'FizzBuzz'

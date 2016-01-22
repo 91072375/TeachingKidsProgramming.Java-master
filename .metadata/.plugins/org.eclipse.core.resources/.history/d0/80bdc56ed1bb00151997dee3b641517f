@@ -1,0 +1,25 @@
+package org.teachingkidsprogramming;
+
+public class Print100Ints10by10
+{
+  public static void main(String[] args)
+  {
+    for (int i = 0; i < 10; i++)
+    {
+      System.out.println();
+      for (int j = 0; j < 1; j++)
+      {
+        System.out.print((j + 1) + " ");
+        System.out.print((j + 10) + " ");
+        System.out.print((j + 20) + " ");
+        System.out.print((j + 30) + " ");
+        System.out.print((j + 40) + " ");
+        System.out.print((j + 50) + " ");
+        System.out.print((j + 60) + " ");
+        System.out.print((j + 70) + " ");
+        System.out.print((j + 80) + " ");
+        System.out.print((j + 90) + " ");
+      }
+    }
+  }
+}
